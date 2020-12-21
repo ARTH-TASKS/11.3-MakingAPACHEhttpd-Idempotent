@@ -11,4 +11,4 @@ With the use of notify and handler module, we made the httpd service restarts on
 
 
 
-![]("/images/output")
+![](images/output.jpg)
